@@ -39,10 +39,11 @@ Antwort: Lösungsweg: im terminal auf mit 'git switch main' switchen, und mit 'g
 Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funktioniert die Navigation nicht korrekt. Finde heraus, in welchem Commit der Fehler eingeführt werde. Beschreibe kurz / gibt die Commit-ID an. Mit welchem Befehl hast du dies herausgefunden? Wie viele Commits wurden insgesamt in diesem Projekt erstellt?
 Antwort: Im commit "Add" wurden die Navigationselemente entfernt.
 Commit Id: 8be24db117802b8ebe2f24ea2d230426244d5a73
-Insgesamt wurden 9 Commits erstellt (7 von Prof. Rammelmüller, 2 von Mark)
+Insgesamt wurden 7 Commits vor meinem Forking erstellt 
 ----------------------- 
 
 Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: 
+https://github.com/MarkEDER24092008/git-quiz-3bhitm.git
 
 Gib anschließend dieses ANGABE-File bei MOODLE ab!
 
