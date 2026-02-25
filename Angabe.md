@@ -27,25 +27,25 @@ commit 5bf9e95f7e3d02ba5d1acb01cd8a607a933add95 (HEAD -> commit-branch, origin/c
 Author: Mark <m.eder4@students.htl-leonding.ac.at>
 Date:   Wed Feb 25 08:13:13 2026 +0100
 
-    Name insertion in index file
+    Name insertion in index file 
 
 commit d87473dd086df3d59580b07c73f8f26b828ec509
 Author: Natascha Rammelmüller <n.rammelmueller@htl-leonding.ac.at>
 Date:   Wed Feb 25 07:10:45 2026 +0100
 
-    feature
+    feature -> h1 insertion with greeting
 
 commit f7f599d0b0e0f5f5d6a12bc7cf697f3a664b6b04
 Author: Natascha Rammelmüller <n.rammelmueller@htl-leonding.ac.at>
 Date:   Wed Feb 25 07:09:32 2026 +0100
 
-    new
+    new -> comment insert
 
 commit 8be24db117802b8ebe2f24ea2d230426244d5a73
 Author: Natascha Rammelmüller <n.rammelmueller@htl-leonding.ac.at>
 Date:   Wed Feb 25 07:09:10 2026 +0100
 
-    add
+    add -> list edit
 
 commit db8992f5f4a93be4face083f50619a81cefcf928
 Author: Natascha Rammelmüller <n.rammelmueller@htl-leonding.ac.at>
@@ -57,7 +57,7 @@ commit dd866aeeaf54cf369f54d29b121006314b6a1caa
 Author: Natascha Rammelmüller <n.rammelmueller@htl-leonding.ac.at>
 Date:   Wed Feb 25 07:07:55 2026 +0100
 
-    update index
+    update index 
 
 commit a2f58c5cd469510e720b4884737fe773cf778419
 Author: Natascha Rammelmüller <104194982+nrammelmueller@users.noreply.github.com>
