@@ -1,7 +1,7 @@
 # GIT Quiz - Angabe
 
 ## Aufgabenstellung
-**Name:** _____________________  
+**Name:** Mark Leon Eder  
 
 ### Ziel
 Zeige in diesem Quiz, dass du die Grundlagen von Git verstanden hast.
@@ -31,14 +31,18 @@ Du arbeitest strukturiert mit Branches, führst saubere Commits durch und kannst
    - Nun versuche den Branch `commit-branch` in den Hauptbranch `main` zu mergen.
    - Es sollte ein Merge-Conflict entstehen. Löse diesen korrekt.
    - Committe die Lösung.
+Antwort: Lösungsweg: im terminal auf mit 'git switch main' switchen, und mit 'git merge commit-branch' mergen. Bei Konflikt 'git add .' verwenden, dann wieder commiten.
+     
   
 
 5. **GIT-History analysieren (4 Punkte)**
 Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funktioniert die Navigation nicht korrekt. Finde heraus, in welchem Commit der Fehler eingeführt werde. Beschreibe kurz / gibt die Commit-ID an. Mit welchem Befehl hast du dies herausgefunden? Wie viele Commits wurden insgesamt in diesem Projekt erstellt?
-
+Antwort: Im commit "Add" wurden die Navigationselemente entfernt.
+Commit Id: 8be24db117802b8ebe2f24ea2d230426244d5a73
+Insgesamt wurden 9 Commits erstellt (7 von Prof. Rammelmüller, 2 von Mark)
 ----------------------- 
 
-Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
+Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: 
 
 Gib anschließend dieses ANGABE-File bei MOODLE ab!
 
